@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Overview
+
+An app to buy a delicious burger which can be customized with your favourite toppings. The backend is made 
+by using firebase.
+
+![4ac435d2-336f-42e3-b663-6910b1a0bce0](https://user-images.githubusercontent.com/43819292/104057495-45487000-5218-11eb-9f46-5e28c1eebbea.jpg)
+
+![d6173b91-2924-4837-be16-2ce7eb2dd0c5](https://user-images.githubusercontent.com/43819292/104057498-45e10680-5218-11eb-8203-f81d00495bea.jpg)
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
